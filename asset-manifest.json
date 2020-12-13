@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/urmila-shirsekar-achrekar-resume/static/css/main.6038fa5a.chunk.css",
+    "main.js": "/urmila-shirsekar-achrekar-resume/static/js/main.b71d2736.chunk.js",
+    "main.js.map": "/urmila-shirsekar-achrekar-resume/static/js/main.b71d2736.chunk.js.map",
+    "runtime-main.js": "/urmila-shirsekar-achrekar-resume/static/js/runtime-main.2bd5b882.js",
+    "runtime-main.js.map": "/urmila-shirsekar-achrekar-resume/static/js/runtime-main.2bd5b882.js.map",
+    "static/js/2.7a224ce2.chunk.js": "/urmila-shirsekar-achrekar-resume/static/js/2.7a224ce2.chunk.js",
+    "static/js/2.7a224ce2.chunk.js.map": "/urmila-shirsekar-achrekar-resume/static/js/2.7a224ce2.chunk.js.map",
+    "index.html": "/urmila-shirsekar-achrekar-resume/index.html",
+    "precache-manifest.602e864bec1ce6870895a529f17393a2.js": "/urmila-shirsekar-achrekar-resume/precache-manifest.602e864bec1ce6870895a529f17393a2.js",
+    "service-worker.js": "/urmila-shirsekar-achrekar-resume/service-worker.js",
+    "static/css/main.6038fa5a.chunk.css.map": "/urmila-shirsekar-achrekar-resume/static/css/main.6038fa5a.chunk.css.map",
+    "static/js/2.7a224ce2.chunk.js.LICENSE": "/urmila-shirsekar-achrekar-resume/static/js/2.7a224ce2.chunk.js.LICENSE",
+    "static/media/urmila.png": "/urmila-shirsekar-achrekar-resume/static/media/urmila.4e1cf6ff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bd5b882.js",
+    "static/js/2.7a224ce2.chunk.js",
+    "static/css/main.6038fa5a.chunk.css",
+    "static/js/main.b71d2736.chunk.js"
+  ]
+}

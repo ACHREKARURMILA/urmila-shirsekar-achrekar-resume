@@ -19,6 +19,7 @@ class About extends Component {
             creating Interactive UI components for better UX  and share those design and codes
             to the world through Github.
             </p>
+            <p> If you want see my portfolio please make a request it on my email-u.achrekar27@gmail.com.</p> 
             
             </div>
             )
